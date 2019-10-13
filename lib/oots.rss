@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Order of the Stick</title>
+    <link>http://www.giantitp.com/comics/oots.html</link>
+    <description>Order of the Stick</description>
+    <language>en-us</language>
+    <dripper:index>0</dripper:index>
+    <item>
+      <title>1: New Edition</title>
+      <link>http://www.GiantITP.com/comics/oots0001.html</link>
+      <description>
+        <img src="http://www.giantitp.com/comics/images/oots0001.gif"/>
+      </description>
+      <pubDate>Sun, 13 Oct 2019 10:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
